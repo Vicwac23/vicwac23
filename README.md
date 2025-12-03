@@ -1,6 +1,4 @@
 ## Hey, I'm Victor 👋
-
-- 🌱 I’m currently learning in 42Malaga (part of 42 Schools).
 <!--
 **Vicwac23/vicwac23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
